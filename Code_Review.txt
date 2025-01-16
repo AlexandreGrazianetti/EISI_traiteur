@@ -1,0 +1,4 @@
+Manque de commentaires sur le script.
+Erreur dans convertion, le remplacer par conversion (l.22)
+Le nom des fonctions sont biens définies (compéhrensibles et permettent de savoir à quoi elles servent)
+Dans l'ensemble, le script fonctionne sans erreur et respecte bien la consigne demandé.
