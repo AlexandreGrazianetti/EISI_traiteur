@@ -1,0 +1,9 @@
+Lister les cas d'erreurs :
+ - données mal formatées (conversion string en float, par exemple)
+ - mauvais appel de fichier (chemin inexistants ou mal saisi, ou mauvaise extension)
+ - Colonne en trop dans le fichier csv
+ - Chambre froide est vide (chambre créé mais sans température)
+ - Formatage différents dans le fichier (Plusieurs en-têtes sur plusieurs lignes, pas de ligne d'en-tête)
+ - Non respect de la syntaxe lors de l'ajout d'une nouvelle chambre
+################################
+Utiliser le argparse. python traiteur.py traiteur csv
